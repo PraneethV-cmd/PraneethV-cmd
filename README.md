@@ -1,6 +1,6 @@
 # Hi there, I'm Praneeth Vijaykumar! 👋
 
-I'm a **3rd-year Computer Science student** passionate about exploring and understanding the effects and impacts of new technologies.
+I'm a **Computer Science student** passionate about exploring and understanding the effects and impacts of new technologies.
 
 ---
 
