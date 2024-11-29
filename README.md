@@ -21,7 +21,7 @@ Here are the technologies and tools I work with (and love!):
 [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) [![Godot](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) [![Go](https://skillicons.dev/icons?i=go)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![Rust](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) [![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) [![Zig](https://skillicons.dev/icons?i=zig)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) [![Cassandra](https://skillicons.dev/icons?i=cassandra)](https://skillicons.dev)
-[![ROS](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
+[![ROS](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
 ### Tools 
 
